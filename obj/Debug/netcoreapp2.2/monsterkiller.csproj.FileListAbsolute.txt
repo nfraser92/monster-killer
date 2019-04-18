@@ -1,0 +1,11 @@
+C:\workspace\csharp\exercises\monsterkiller\bin\Debug\netcoreapp2.2\monsterkiller.deps.json
+C:\workspace\csharp\exercises\monsterkiller\bin\Debug\netcoreapp2.2\monsterkiller.runtimeconfig.json
+C:\workspace\csharp\exercises\monsterkiller\bin\Debug\netcoreapp2.2\monsterkiller.runtimeconfig.dev.json
+C:\workspace\csharp\exercises\monsterkiller\bin\Debug\netcoreapp2.2\monsterkiller.dll
+C:\workspace\csharp\exercises\monsterkiller\bin\Debug\netcoreapp2.2\monsterkiller.pdb
+C:\workspace\csharp\exercises\monsterkiller\obj\Debug\netcoreapp2.2\monsterkiller.csprojAssemblyReference.cache
+C:\workspace\csharp\exercises\monsterkiller\obj\Debug\netcoreapp2.2\monsterkiller.csproj.CoreCompileInputs.cache
+C:\workspace\csharp\exercises\monsterkiller\obj\Debug\netcoreapp2.2\monsterkiller.AssemblyInfoInputs.cache
+C:\workspace\csharp\exercises\monsterkiller\obj\Debug\netcoreapp2.2\monsterkiller.AssemblyInfo.cs
+C:\workspace\csharp\exercises\monsterkiller\obj\Debug\netcoreapp2.2\monsterkiller.dll
+C:\workspace\csharp\exercises\monsterkiller\obj\Debug\netcoreapp2.2\monsterkiller.pdb
